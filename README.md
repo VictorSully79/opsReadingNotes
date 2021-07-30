@@ -14,5 +14,4 @@ Below you find a list of my reading notes from Ops201:
 
 20210729
 -[Trouble Shooting](troubleShootingTechniques.md)
-=======
->>>>>>> a99fca85e0505c2378bb2c48a1a49387e38d4933
+
