@@ -10,7 +10,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210728
 -[Issue Tracking Systems](issueTrackingSystem.md)
-<<<<<<< HEAD
 
 20210729
 -[Trouble Shooting](troubleShootingTechniques.md)
