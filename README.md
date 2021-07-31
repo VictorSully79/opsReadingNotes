@@ -14,3 +14,5 @@ Below you find a list of my reading notes from Ops201:
 20210729
 -[Trouble Shooting](troubleShootingTechniques.md)
 
+20270730
+-[What is an SMB Port?](smbPort.md)
