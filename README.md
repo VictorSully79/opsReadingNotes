@@ -16,3 +16,6 @@ Below you find a list of my reading notes from Ops201:
 
 20270730
 -[What is an SMB Port?](smbPort.md)
+
+20210802
+-[Windows Defender](windowsDefender.md)
