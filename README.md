@@ -19,3 +19,7 @@ Below you find a list of my reading notes from Ops201:
 
 20210802
 -[Windows Defender](windowsDefender.md)
+
+20210803
+-[Should you learn PowerShell?](learnPowershell.md
+)
