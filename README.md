@@ -23,3 +23,6 @@ Below you find a list of my reading notes from Ops201:
 20210803
 -[Should you learn PowerShell?](learnPowershell.md
 )
+
+20210804
+-[Demystifying Windows Registry](windowsRegistry.md)
