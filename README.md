@@ -26,3 +26,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210804
 -[Demystifying Windows Registry](windowsRegistry.md)
+
+20210805
+-[SOP's](sop.md)
