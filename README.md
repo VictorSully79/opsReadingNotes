@@ -29,3 +29,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210805
 -[SOP's](sop.md)
+
+20210806
+-[Veeam](veeam.md)
