@@ -32,3 +32,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210806
 -[Veeam](veeam.md)
+
+20210809
+-[Restoration, Repair and Secure Disposal](restorationRepair.md)
