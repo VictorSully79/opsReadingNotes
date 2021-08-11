@@ -35,3 +35,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210809
 -[Restoration, Repair and Secure Disposal](restorationRepair.md)
+
+20210810
+-[pfSense]{pfSense.md}
