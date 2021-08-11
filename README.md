@@ -38,3 +38,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210810
 -[pfSense](pfSense.md)
+
+20210811
+-[Malware Remediation](malwareRemediation.md)
