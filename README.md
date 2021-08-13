@@ -41,3 +41,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210811
 -[Malware Remediation](malwareRemediation.md)
+
+20210812
+-[Virtualization](importanceOfVirtualization.md)
