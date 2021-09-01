@@ -46,8 +46,11 @@ Below you find a list of my reading notes from Ops201:
 
 ## Ops301 Notes
 
-08302021
+20210830
 -[Windows Server](windowsServer.md)
 
 20210831
 -[Domain Controllers](domainController.md)
+
+20210901
+-[Active Directory](activeDirectory.md)
