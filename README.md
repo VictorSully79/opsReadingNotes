@@ -21,8 +21,7 @@ Below you find a list of my reading notes from Ops201:
 -[Windows Defender](windowsDefender.md)
 
 20210803
--[Should you learn PowerShell?](learnPowershell.md
-)
+-[Should you learn PowerShell?](learnPowershell.md)
 
 20210804
 -[Demystifying Windows Registry](windowsRegistry.md)
@@ -44,3 +43,8 @@ Below you find a list of my reading notes from Ops201:
 
 20210812
 -[Virtualization](importanceOfVirtualization.md)
+
+### Ops301 Notes
+
+20210831
+-[Domain Controllers](domainController.md)
