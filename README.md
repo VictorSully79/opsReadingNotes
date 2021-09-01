@@ -44,7 +44,10 @@ Below you find a list of my reading notes from Ops201:
 20210812
 -[Virtualization](importanceOfVirtualization.md)
 
-### Ops301 Notes
+## Ops301 Notes
+
+08302021
+-[Windows Server](windowsServer.md)
 
 20210831
 -[Domain Controllers](domainController.md)

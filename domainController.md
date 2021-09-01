@@ -6,11 +6,11 @@ Domains allows for the settings of multiple computers to be controlled by a Doma
 
 ## What is a Domain
 
-Windows domains provide network administrators with a way to manage a large number of PCs and control them from one place. One or more servers (domain controllers) have control over the domain and the computers on it. 
+Windows domains provide network administrators with a way to manage a large number of PCs and control them from one place. One or more servers (domain controllers) have control over the domain and the computers on it.
 
 Most computers in a domain are on the same local network. In the case of company or school laptops that leave the network they can still be controlled by the domain through VPN or Internet connection.
 
-User names and passwords are kept by the domain controller and the controller can overide local settins.
+User names and passwords are kept by the domain controller and the controller can over-ride local settings.
 
 ## Workgroups vs Domains
 
