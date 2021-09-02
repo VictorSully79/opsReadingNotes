@@ -54,3 +54,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210901
 -[Active Directory](activeDirectory.md)
+
+20210902
+-[Group Policy](groupPolicy.md)
