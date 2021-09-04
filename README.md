@@ -57,3 +57,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210902
 -[Group Policy](groupPolicy.md)
+
+20210903
+-[Patch Management](patchManagement.md)
