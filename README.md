@@ -60,3 +60,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210903
 -[Patch Management](patchManagement.md)
+
+20210907
+-[Network Traffic Analysis](networkTraffic.md)
