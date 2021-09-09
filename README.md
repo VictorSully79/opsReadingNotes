@@ -63,3 +63,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210907
 -[Network Traffic Analysis](networkTraffic.md)
+
+20210908
+-[NGINX](nginx.md)
