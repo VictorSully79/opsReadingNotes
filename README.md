@@ -66,3 +66,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210908
 -[NGINX](nginx.md)
+
+20210909
+-[VirtualBox Network Settings](vbNetworkSettings.md)
