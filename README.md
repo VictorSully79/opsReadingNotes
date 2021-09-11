@@ -69,3 +69,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210909
 -[VirtualBox Network Settings](vbNetworkSettings.md)
+
+20210910
+-[CIDR Blocks](cidr.md)
