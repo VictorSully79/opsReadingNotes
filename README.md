@@ -75,3 +75,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210913
 -[Site to Site VPN](sTosVPN.md)
+
+20210914
+-[Network Address Translation(NAT)](nat.md)
