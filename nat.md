@@ -16,7 +16,7 @@ If NAT runs out of addresses the packets can not be sent.
 
 - Inside local address: *An IP address that is assigned to a host on the Inside (local) network. The address is probably not an IP address assigned by the service provider i.e., these are private IP addresses. This is the inside host seen from the inside network.*
 
-- Inside global address: * IP address that represents one or more inside local IP addresses to the outside world. This is the inside host as seen from the outside network.*
+- Inside global address: *IP address that represents one or more inside local IP addresses to the outside world. This is the inside host as seen from the outside network.*
 
 - Outside local adress: *This is the actual IP address of the destination host in the local network after translation.*
 
