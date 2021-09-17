@@ -78,3 +78,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210914
 -[Network Address Translation(NAT)](nat.md)
+
+20210915
+-[Traffic Capture](trafficCapture.md)
