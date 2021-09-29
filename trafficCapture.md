@@ -48,4 +48,4 @@ Drawbacks:
 
 - No visibility on intra-switch traffic
 
-- Not appropriate for the observation of a narrow tgraffic range.  
+- Not appropriate for the observation of a narrow traffic range. 

@@ -81,3 +81,6 @@ Below you find a list of my reading notes from Ops201:
 
 20210915
 -[Traffic Capture](trafficCapture.md)
+
+20210916
+-[Network Scanning](NetworkScanningNMAP.md)
