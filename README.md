@@ -88,3 +88,5 @@ Below you find a list of my reading notes from Ops201:
 ## Ops401 Notes
 
 -[Stratigic Policy Development](strategicPolicyDevelopment.md)
+
+-[Cloud Security Principles and Frameworks](cloudSecandFramworks.md)
