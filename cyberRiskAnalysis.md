@@ -40,3 +40,20 @@ Keys:
    * Message Digest (Hash)
    * MAC
    * Digital Signatures
+
+### Availability: Provide timely and reliable access to resources
+
+Keys:
+
+1. Prevent single point of failure
+2. Comprehensive fault tolerance (Data, Hard Drives, Servers, Network Links, ets.)
+
+## Best Practices to support CIA
+
+1. Separation of Duties: Don't put all your eggs in one basket. Diversity of power.
+2. Mandatory Vacations: Make sure other people know how to do the job by making the usual guy leave.
+3. Job rotation: See Above
+4. Least Privilege: See #1. Know who can do what and diversify.
+5. Need to know: Just because they want to know doesn't mean they need to.
+6. Dual Control: Diversify and make sure someone doesn't have a monopoly on your system.
+
