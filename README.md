@@ -92,3 +92,5 @@ Below you find a list of my reading notes from Ops201:
 -[Cloud Security Principles and Frameworks](cloudSecandFramworks.md)
 
 -[Cyber Risk Analysis](cyberRiskAnalysis.md)
+
+-[CIS Benchmarks](cisBenchmarks.md)
