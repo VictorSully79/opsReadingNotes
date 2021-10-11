@@ -94,3 +94,5 @@ Below you find a list of my reading notes from Ops201:
 -[Cyber Risk Analysis](cyberRiskAnalysis.md)
 
 -[CIS Benchmarks](cisBenchmarks.md)
+
+-[Data File Encryption](dataFileEncryption.md)
