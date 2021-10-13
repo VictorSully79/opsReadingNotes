@@ -96,3 +96,5 @@ Below you find a list of my reading notes from Ops201:
 -[CIS Benchmarks](cisBenchmarks.md)
 
 -[Data File Encryption](dataFileEncryption.md)
+
+-[Protecting Data](protectingData.md)
