@@ -98,3 +98,5 @@ Below you find a list of my reading notes from Ops201:
 -[Data File Encryption](dataFileEncryption.md)
 
 -[Protecting Data](protectingData.md)
+
+-[Data Loss Prevention](dlp.md)

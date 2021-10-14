@@ -6,7 +6,7 @@ notes taken from <https://digitalguardian.com/blog/data-protection-data-in-trans
 
 Data in Transit is data moving from one place to another while data at rest is not actively moving.
 
-Data can be exposed to rist both at rest and in motion.
+Data can be exposed to risk both at rest and in motion.
 
 ## Best Practices
 
