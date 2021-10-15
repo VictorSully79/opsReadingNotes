@@ -100,3 +100,5 @@ Below you find a list of my reading notes from Ops201:
 -[Protecting Data](protectingData.md)
 
 -[Data Loss Prevention](dlp.md)
+
+-[Public Key Infrastructure](pki.md)
