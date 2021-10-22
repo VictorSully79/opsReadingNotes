@@ -102,3 +102,5 @@ Below you find a list of my reading notes from Ops201:
 -[Data Loss Prevention](dlp.md)
 
 -[Public Key Infrastructure](pki.md)
+
+-[IDS Pros and Cons](idsProsandCons.md)
