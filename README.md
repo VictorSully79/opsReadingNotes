@@ -104,3 +104,6 @@ Below you find a list of my reading notes from Ops201:
 -[Public Key Infrastructure](pki.md)
 
 -[IDS Pros and Cons](idsProsandCons.md)
+
+-[Lessons Learned From Capital One Data Breach](CapOneBreach.md)
+
