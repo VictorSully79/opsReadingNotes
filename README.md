@@ -112,3 +112,5 @@ Below you find a list of my reading notes from Ops201:
 -[Introduction to AWS CloudWatch](awsCloudWatch.md)
 
 -[Cyber Threat Analyst](cyberThreatAnalyst.md)
+
+-[Persistence](persistence.md)
