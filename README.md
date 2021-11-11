@@ -114,3 +114,5 @@ Below you find a list of my reading notes from Ops201:
 -[Cyber Threat Analyst](cyberThreatAnalyst.md)
 
 -[Persistence](persistence.md)
+
+-[Ethical Hacking](ethicalHacking.md)
