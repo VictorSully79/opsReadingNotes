@@ -116,3 +116,5 @@ Below you find a list of my reading notes from Ops201:
 -[Persistence](persistence.md)
 
 -[Ethical Hacking](ethicalHacking.md)
+
+-[YARA Rules](yara.md)
