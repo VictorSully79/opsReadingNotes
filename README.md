@@ -118,3 +118,7 @@ Below you find a list of my reading notes from Ops201:
 -[Ethical Hacking](ethicalHacking.md)
 
 -[YARA Rules](yara.md)
+
+-[Malware Analysis](malwareAnalysis.md)
+
+-[Computer Forensics](computerForensics.md)
